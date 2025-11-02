@@ -11,12 +11,13 @@ import com.klef.service.UserService;
 @RestController
 @RequestMapping("/userapi")
 //@CrossOrigin(origins = "http://localhost:5173","http://localhost:7001",allowCredentials = "true")
+@CrossOrigin(origins = "*")
 
 
-@CrossOrigin(
-    origins = {"http://localhost:5173", "http://localhost:7001"},
-    allowCredentials = "true"
-)
+// @CrossOrigin(
+//     origins = {"http://localhost:5173", "http://localhost:7001"},
+//     allowCredentials = "true"
+// )
 
 
 public class UserController {
