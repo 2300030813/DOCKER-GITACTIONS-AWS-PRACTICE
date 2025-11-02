@@ -20,7 +20,7 @@ services:
     container_name: springboot
     build:
       context: ./BACKEND/BOOKINGAPI-SPRINGBOOT
-      dockerfile: ./BACKEND/BOOKINGAPI-SPRINGBOOT/backend.Dockerfile
+      dockerfile: backend.Dockerfile
     ports:
       - "1700:1700"
     depends_on:
@@ -34,7 +34,7 @@ services:
     container_name: react
     build:
       context: ./FRONTEND/BOOKINGAPI-REACT
-      dockerfile: ./FRONTEND/BOOKINGAPI-REACT/frontend.Dockerfile
+      dockerfile: frontend.Dockerfile
     ports:
       - "7001:80"
     depends_on:
