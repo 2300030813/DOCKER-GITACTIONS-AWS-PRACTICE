@@ -13,7 +13,7 @@ export default function Register() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      //await axios.post("http://localhost:1700/userapi/register", form);
+      //await axios.post("http://localhost:7000/userapi/register", form);
       await axios.post(`${import.meta.env.VITE_API_URL}/userapi/register`, form);
 
       setMessage("✅ Registration successful!");
