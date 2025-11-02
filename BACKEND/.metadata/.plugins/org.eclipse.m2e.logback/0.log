@@ -1,0 +1,331 @@
+2025-10-15 21:27:38,776 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-10-15 21:30:44,345 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.klef:BOOKINGAPI-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\pom.xml.
+2025-10-15 21:30:45,585 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BOOKINGAPI-SPRINGBOOT/src/main/java
+2025-10-15 21:30:45,586 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BOOKINGAPI-SPRINGBOOT/src/main/resources
+2025-10-15 21:30:45,591 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BOOKINGAPI-SPRINGBOOT/src/main/resources
+2025-10-15 21:30:45,595 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BOOKINGAPI-SPRINGBOOT/src/test/java
+2025-10-15 21:30:45,596 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BOOKINGAPI-SPRINGBOOT/src/test/resources
+2025-10-15 21:30:46,248 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-10-15 21:30:46,251 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-15 21:30:46,569 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.klef:BOOKINGAPI-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\pom.xml.
+2025-10-15 21:30:47,175 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BOOKINGAPI-SPRINGBOOT/src/main/java
+2025-10-15 21:30:47,176 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BOOKINGAPI-SPRINGBOOT/src/main/resources
+2025-10-15 21:30:47,176 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BOOKINGAPI-SPRINGBOOT/src/main/resources
+2025-10-15 21:30:47,176 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BOOKINGAPI-SPRINGBOOT/src/test/java
+2025-10-15 21:30:47,177 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BOOKINGAPI-SPRINGBOOT/src/test/resources
+2025-10-15 21:30:47,578 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-10-15 21:30:48,325 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-15 21:30:48,339 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-15 21:30:48,344 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-10-15 21:33:24,484 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-15 21:33:24,490 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-15 21:33:24,495 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-10-15 21:33:43,850 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-15 21:33:43,854 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-15 21:33:43,858 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-10-15 21:34:06,126 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-15 21:34:06,130 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-15 21:34:06,133 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-10-15 21:34:25,777 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-15 21:34:25,794 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-15 21:34:25,799 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-10-15 21:34:50,119 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-15 21:34:50,122 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-15 21:34:50,125 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-10-15 21:35:08,351 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-15 21:35:08,358 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-15 21:35:08,361 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-10-15 21:35:23,813 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-15 21:35:23,820 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-15 21:35:23,823 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-10-15 21:35:48,842 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-15 21:35:48,849 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-15 21:35:48,851 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-10-15 21:37:02,032 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-15 21:37:02,039 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-15 21:37:02,042 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:50:31,110 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-11-01 16:53:39,944 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:53:39,978 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:53:39,989 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:53:44,885 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:53:44,926 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:53:44,941 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:53:48,072 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:53:48,082 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:53:48,088 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:53:50,516 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:53:50,533 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:53:50,538 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:54:08,780 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:54:08,792 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:54:08,797 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:54:13,718 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:54:13,730 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:54:13,736 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:54:16,786 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:54:16,818 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:54:16,835 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:54:44,709 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:54:44,715 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:54:44,720 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:54:49,583 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:54:49,607 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:54:49,618 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:55:07,448 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:55:07,454 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:55:07,458 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:55:11,806 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:55:11,820 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:55:11,828 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:55:28,299 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:55:28,314 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:55:28,320 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 16:55:32,542 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 16:55:32,595 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 16:55:32,603 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:11:55,877 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:11:55,928 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:11:55,941 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:12:12,192 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:12:12,199 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:12:12,202 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:15:13,833 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:15:13,840 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:15:13,844 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:15:24,629 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:15:24,635 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:15:24,640 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:15:26,884 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:15:26,891 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:15:26,897 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:17:31,965 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:17:31,987 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:17:31,997 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:25:24,601 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:25:24,615 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:25:24,621 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:25:29,090 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:25:29,103 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:25:29,109 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:25:31,398 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:25:31,407 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:25:31,411 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:25:34,586 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:25:34,607 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:25:34,614 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:27:21,718 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:27:21,744 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:27:21,750 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:47:04,979 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:47:04,995 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:47:04,999 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:47:06,164 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:47:06,182 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:47:06,189 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:47:15,455 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:47:15,469 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:47:15,472 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:47:38,549 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:47:38,562 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:47:38,566 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:54:27,301 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:54:27,346 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:54:27,359 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:54:39,498 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:54:39,515 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:54:39,519 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:54:58,063 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:54:58,076 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:54:58,080 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:55:03,359 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:55:03,371 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:55:03,376 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:55:11,423 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:55:11,434 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:55:11,438 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:56:36,863 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:56:36,880 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:56:36,887 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:56:47,516 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:56:47,526 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:56:47,533 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 17:56:55,757 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 17:56:55,828 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 17:56:55,849 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:09:29,931 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:09:29,947 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:09:29,953 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:09:38,411 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:09:38,423 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:09:38,428 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:10:00,799 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:10:00,811 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:10:00,816 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:10:38,806 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:10:38,818 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:10:38,822 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:12:06,475 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:12:06,487 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:12:06,492 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:12:17,632 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:12:17,647 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:12:17,657 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:13:01,489 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:13:01,517 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:13:01,526 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:15:19,120 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:15:19,132 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:15:19,140 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:15:29,765 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:15:29,777 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:15:29,782 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:15:46,128 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:15:46,134 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:15:46,137 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 18:17:59,569 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 18:17:59,581 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 18:17:59,587 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 20:56:06,467 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 20:56:06,473 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 20:56:06,477 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 20:56:21,183 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 20:56:21,199 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 20:56:21,215 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 20:56:25,481 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 20:56:25,517 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 20:56:25,533 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 20:56:34,402 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 20:56:34,437 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 20:56:34,491 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 20:56:42,661 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 20:56:42,678 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 20:56:42,683 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 20:57:17,208 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 20:57:17,211 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 20:57:17,214 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 20:57:50,411 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 20:57:50,414 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 20:57:50,417 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 20:58:22,655 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 20:58:22,658 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 20:58:22,660 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:01:35,057 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:01:35,065 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:01:35,068 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:01:39,188 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:01:39,194 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:01:39,196 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:01:43,410 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:01:43,426 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:01:43,432 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:01:57,409 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:01:57,414 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:01:57,416 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:02:06,300 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:02:06,303 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:02:06,305 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:02:10,798 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:02:10,804 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:02:10,807 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:02:31,047 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:02:31,051 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:02:31,052 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:09:07,254 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:09:07,269 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:09:07,275 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:09:20,738 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:09:20,744 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:09:20,747 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:14:12,940 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:14:12,947 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:14:12,949 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:21:37,914 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.21; built: 2025-05-09T00:32:00.688Z; git: 1c4719601e31b05b7d68910d2edd980259f1f53c; jvm 21.0.7+6-LTS
+2025-11-01 21:21:37,969 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@bc5d26b{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@191d9313{STARTED}}
+2025-11-01 21:21:37,969 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-11-01 21:21:37,995 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5626ad4c{HTTP/1.1, (http/1.1)}{127.0.0.1:49177}
+2025-11-01 21:21:38,010 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@384ba44a{STARTING}[12.0.21,sto=0] @16300091ms
+2025-11-01 21:21:42,557 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:21:42,563 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:21:42,566 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:26:33,243 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:26:33,260 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:26:33,265 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:26:42,364 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:26:42,371 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:26:42,373 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:26:45,619 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:26:45,623 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:26:45,625 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:26:50,986 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:26:50,991 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:26:50,993 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:26:55,447 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:26:55,450 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:26:55,452 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:28:36,553 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:28:36,565 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:28:36,571 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:29:56,869 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:29:56,892 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:29:56,899 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:31:46,865 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:31:46,873 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:31:46,875 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:35:06,721 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:35:06,728 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:35:06,731 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:35:10,113 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:35:10,122 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:35:10,124 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:37:04,776 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:37:04,782 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:37:04,785 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:37:12,185 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:37:12,193 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:37:12,196 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:38:56,560 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:38:56,566 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:38:56,568 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:38:59,292 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:38:59,305 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:38:59,309 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:39:23,747 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:39:23,753 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:39:23,756 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:39:27,217 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:39:27,221 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:39:27,223 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:39:55,299 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:39:55,301 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:39:55,304 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:39:56,418 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:39:56,422 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:39:56,423 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:40:00,985 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:40:00,989 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:40:00,993 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:42:27,383 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:42:27,447 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:42:27,497 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:42:40,957 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:42:40,960 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:42:40,962 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:42:49,859 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:42:49,863 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:42:49,865 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:43:01,678 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:43:01,684 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:43:01,687 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:43:14,230 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:43:14,233 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:43:14,235 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 21:45:20,622 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-01 21:45:20,628 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-01 21:45:20,630 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources
+2025-11-01 22:41:20,917 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@384ba44a{STOPPING}[12.0.21,sto=0]
+2025-11-01 22:41:20,937 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5626ad4c{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-11-02 08:57:41,107 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-11-02 08:58:07,628 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-02 08:58:07,667 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-02 08:58:07,676 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\DEVOPS\DOCKER-FULLSTACK-GITACTIONS\BACKEND\BOOKINGAPI-SPRINGBOOT\src\test\resources

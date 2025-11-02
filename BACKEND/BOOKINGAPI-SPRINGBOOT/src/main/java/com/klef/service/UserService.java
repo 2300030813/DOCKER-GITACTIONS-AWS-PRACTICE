@@ -1,0 +1,11 @@
+package com.klef.service;
+
+import com.klef.entity.User;
+
+public interface UserService {
+    User registerUser(User user);
+    User loginUser(String email, String password);
+    User updateUser(Integer id, User updatedUser);
+    User getUserById(int id);
+
+}

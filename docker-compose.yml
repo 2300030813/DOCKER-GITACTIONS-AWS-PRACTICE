@@ -1,0 +1,52 @@
+services:
+  mysqldb:
+    container_name: mysql-db
+    image: mysql:8
+    environment:
+      MYSQL_ROOT_PASSWORD: Dedeepya@02
+      MYSQL_DATABASE: bookingdb
+      # MYSQL_USER: klu
+      # MYSQL_PASSWORD: klu
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql   # volume added here
+    networks:
+      - springboot-mysql-net
+    
+
+  backend:
+    image: 2300030813/docker-backend:latest
+    container_name: springboot
+    build:
+      context: ./FRONTEND/BOOKINGAPI-REACT
+      dockerfile: frontend.Dockerfile
+    ports:
+      - "7000:1700"
+    depends_on:
+      - mysqldb
+    restart: on-failure
+    networks:
+      - springboot-mysql-net
+
+  frontend:
+    image: 2300030813/docker-frontend:latest
+    container_name: react
+    build:
+      context: ./BACKEND/BOOKINGAPI-SPRINGBOOT
+      dockerfile: backend.Dockerfile
+    ports:
+      - "7001:80"
+    depends_on:
+      - backend
+    restart: on-failure
+    networks:
+      - springboot-mysql-net
+
+    
+# Declare volumes at the bottom
+volumes:
+  mysql-data:
+networks:
+  springboot-mysql-net:
+

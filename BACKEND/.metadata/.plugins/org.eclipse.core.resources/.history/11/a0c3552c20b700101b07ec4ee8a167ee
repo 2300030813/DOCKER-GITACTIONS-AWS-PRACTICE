@@ -1,0 +1,42 @@
+package com.klef.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import com.klef.entity.User;
+import com.klef.repository.UserRepository;
+
+@Service
+public class UserServiceImpl implements UserService {
+
+    @Autowired
+    private UserRepository userRepository;
+
+    @Override
+    public User registerUser(User user) {
+        return userRepository.save(user);
+    }
+
+    @Override
+    public User loginUser(String email, String password) {
+        User existingUser = userRepository.findByEmail(email);
+        if (existingUser != null && existingUser.getPassword().equals(password)) {
+            return existingUser;
+        }
+        return null;
+    }
+
+    @Override
+    public User updateUser(Long id, User updatedUser) {
+        Optional<User> optionalUser = userRepository.findById(id);
+        if (optionalUser.isPresent()) {
+            User user = optionalUser.get();
+            user.setName(updatedUser.getName());
+            user.setEmail(updatedUser.getEmail());
+            user.setPhone(updatedUser.getPhone());
+            return userRepository.save(user);
+        }
+        return null;
+    }
+}
