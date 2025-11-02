@@ -11,7 +11,7 @@ import com.klef.service.BookingService;
 
 @RestController
 @RequestMapping("/bookingapi")
-@CrossOrigin(origins = "http://localhost:5173", allowCredentials = "true")
+@CrossOrigin(origins = "http://localhost:5173","http://localhost:7001", allowCredentials = "true")
 public class BookingController {
 
     @Autowired

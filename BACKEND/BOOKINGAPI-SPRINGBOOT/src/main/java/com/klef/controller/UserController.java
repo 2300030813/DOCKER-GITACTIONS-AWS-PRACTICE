@@ -9,7 +9,7 @@ import com.klef.service.UserService;
 
 @RestController
 @RequestMapping("/userapi")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "http://localhost:5173","http://localhost:7001")
 public class UserController {
 
     @Autowired
