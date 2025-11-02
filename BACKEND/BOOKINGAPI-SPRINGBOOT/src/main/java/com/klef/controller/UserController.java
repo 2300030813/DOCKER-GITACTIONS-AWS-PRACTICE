@@ -18,10 +18,20 @@ import com.klef.service.UserService;
 //     allowCredentials = "true"
 // )
 
+// @CrossOrigin(
+//     origins = {"http://localhost:5173", "http://localhost:7001"},
+//     allowCredentials = "true"
+// )
+
 @CrossOrigin(
-    origins = {"http://localhost:5173", "http://localhost:7001"},
+    origins = {
+        "http://localhost:5173",
+        "http://localhost:7001",
+        "http://ec2-18-117-224-218.us-east-2.compute.amazonaws.com:7001"
+    },
     allowCredentials = "true"
 )
+
 
 
 
