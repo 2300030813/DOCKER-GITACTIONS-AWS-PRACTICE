@@ -10,10 +10,20 @@ import com.klef.entity.Booking;
 import com.klef.service.BookingService;
 
 
+
+@CrossOrigin(
+    origins = {
+        "http://18.188.19.53:7001", 
+        "http://ec2-18-188-19-53.us-east-2.compute.amazonaws.com:7001"
+    },
+    allowedHeaders = "*",
+    allowCredentials = "true",
+    methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE, RequestMethod.OPTIONS}
+)
 @RestController
 @RequestMapping("/bookingapi")
 //@CrossOrigin(origins = "http://localhost:5173","http://localhost:7001", allowCredentials = "true")
-@CrossOrigin(origins = "*")
+//@CrossOrigin(origins = "*")
 
 
 // @CrossOrigin(

@@ -15,9 +15,22 @@ public class CorsConfig {
     public CorsFilter corsFilter() {
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowCredentials(true);
-        config.setAllowedOrigins(Arrays.asList("http://localhost:7001", "http://localhost:5173"));
-        config.setAllowedHeaders(Arrays.asList("Origin", "Content-Type", "Accept", "Authorization"));
-        config.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
+        
+        // ✅ Include both local and EC2 frontend origins
+        config.setAllowedOrigins(Arrays.asList(
+            "http://localhost:5173",
+            "http://localhost:7001",
+            "http://18.188.19.53:7001",
+            "http://ec2-18-188-19-53.us-east-2.compute.amazonaws.com:7001"
+        ));
+
+        config.setAllowedHeaders(Arrays.asList(
+            "Origin", "Content-Type", "Accept", "Authorization"
+        ));
+
+        config.setAllowedMethods(Arrays.asList(
+            "GET", "POST", "PUT", "DELETE", "OPTIONS"
+        ));
 
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         source.registerCorsConfiguration("/**", config);
