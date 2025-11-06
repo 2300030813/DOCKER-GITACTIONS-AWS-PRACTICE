@@ -20,8 +20,8 @@ public class CorsConfig {
         config.setAllowedOrigins(Arrays.asList(
             "http://localhost:5173",
             "http://localhost:7001",
-            "http://18.188.19.53:7001",
-            "http://ec2-18-188-19-53.us-east-2.compute.amazonaws.com:7001"
+            "http://3.141.34.160:7001",
+            "http://ec2-3-141-34-160.us-east-2.compute.amazonaws.com:7001"
         ));
 
         config.setAllowedHeaders(Arrays.asList(
