@@ -9,8 +9,8 @@ import com.klef.service.UserService;
 
 @CrossOrigin(
     origins = {
-        "http://3.141.34.160", 
-        "http://ec2-3-141-34-160.us-east-2.compute.amazonaws.com:7001"
+        "http://3.12.83.193", 
+        "http://ec2-3-12-83-193.us-east-2.compute.amazonaws.com:7001"
     },
     allowedHeaders = "*",
     allowCredentials = "true",
