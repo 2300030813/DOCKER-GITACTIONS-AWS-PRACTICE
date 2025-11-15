@@ -13,8 +13,8 @@ import com.klef.service.BookingService;
 
 @CrossOrigin(
     origins = {
-        "http://3.12.83.193:7001", 
-        "http://ec2-3-12-83-193.us-east-2.compute.amazonaws.com:7001"
+        "http://3.145.123.118:7001", 
+        "http://ec2-3-145-123-118.us-east-2.compute.amazonaws.com:7001"
     },
     allowedHeaders = "*",
     allowCredentials = "true",
